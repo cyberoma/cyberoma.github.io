@@ -11,7 +11,7 @@ mermaid: true
 - Die Deparment of defense hat diese Begriffe in zusammenhang mit Testungen von Strategie-Simulationen verwendet
 - Im Jahre 1963 wurde der Begriff Blue Team für die USA verwendet, die einen Rüstungskontrollvertrag mit der Sowjetunuin (Red) vereinbartete
 ## Definition red teaming: 
-{% post_url 2022-03-20-First-Post.md %}
+{% post_url 2022-03-20-First-Post %}
 - *The emulation of adversarial tactics, techniques and procedures (TTPs) to test plans and systems the way they may actually be defeated by aggressors to challenge plans and improve decision making processes*
 - Die Nachahmung gegnerischer Taktiken, Techniken und Verfahren (TTPs), um Pläne und Systeme so zu testen, wie sie von Angreifern tatsächlich eingesetzt werden könnten, um Pläne in Frage zu stellen und Entscheidungsprozesse zu verbessern
 

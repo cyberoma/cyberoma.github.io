@@ -1,8 +1,8 @@
 ---
-title: Second Post
+title: Red Teaming
 date: 2022-03-20
-categories: [Blogging, Demo]
-tags: [typography]
+categories: [Blogging, Security]
+tags: [Red-Team, Security]
 math: true
 mermaid: true
 ---

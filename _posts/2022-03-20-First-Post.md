@@ -1,6 +1,6 @@
 ---
 title: Text and HACK
-date: 2022-03-20 22:00:00
+date: 2022-03-20
 categories: [Blogging, Demo]
 tags: [typography]
 math: true

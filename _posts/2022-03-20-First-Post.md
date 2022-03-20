@@ -1,6 +1,6 @@
 ---
 title: Text and Typography
-date: 2022-03-20 21:00:00 +0800
+date: 2022-03-20
 categories: [Blogging, Demo]
 tags: [typography]
 math: true

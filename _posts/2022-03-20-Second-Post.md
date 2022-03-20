@@ -1,3 +1,11 @@
+---
+title: Second Post
+date: 2022-03-20
+categories: [Blogging, Demo]
+tags: [typography]
+math: true
+mermaid: true
+---
 # Red Team History & Overview
 - In den frühen 1960 Jahren kamen die Begriffe red and blue team
 - Die Deparment of defense hat diese Begriffe in zusammenhang mit Testungen von Strategie-Simulationen verwendet
